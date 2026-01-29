@@ -121,13 +121,17 @@ Computer Science undergraduate specializing in **Artificial Intelligence & Machi
 
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sanjanaa-bs&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjanaa-bs&theme=tokyonight&hide_border=true"/>
+  <img width="48%" 
+       src="https://github-readme-stats.vercel.app/api?username=Sanjanaa-bs&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="48%" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjanaa-bs&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjanaa-bs&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="55%" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjanaa-bs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
+
 
 ---
 
