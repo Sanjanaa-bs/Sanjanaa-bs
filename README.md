@@ -6,7 +6,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width="100%"/>
 
-**Computer Science (AI & ML) Undergraduate | Frontend & Full-Stack Developer | Applied ML Research**
+**Computer Science (AI & ML) Undergraduate | Frontend & Full-Stack Developer | Applied ML Research | Cloud Engineer **
 
 📍 Bengaluru, India  
 🎓 Dayananda Sagar University | **CGPA: 8.54 / 10**
