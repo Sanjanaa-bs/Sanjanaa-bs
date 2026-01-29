@@ -2,7 +2,7 @@
 
 # ✨ SANJANA B S
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=6F7CFF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Undergraduate;Frontend+%7C+Full-Stack+Developer;AI-Driven+Product+Builder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=6F7CFF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Undergraduate;Frontend+%7C+Full-Stack+Developer;AI-Driven+Product+Builder;Cloud+Engineer)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header" width="100%"/>
 
