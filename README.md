@@ -7,7 +7,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header" width="100%"/>
 
 🎓 **B.Tech CSE (AI & ML)** – Dayananda Sagar University  
-📍 Bengaluru, India | **CGPA: 8.54 / 10**
+📍 Bengaluru, India | **CGPA: 8.65 / 10**
 
 🌐 **Portfolio:** https://sanjanabsportfolio.vercel.app/
 
